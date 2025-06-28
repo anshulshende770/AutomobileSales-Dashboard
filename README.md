@@ -59,4 +59,4 @@ Usage
  • Use slicers to explore data by different dimensions.
 Security
 Document and dashboard comply with information security best practices, including sensitivity labels and permissions management to protect data confidentiality.
-This README provides guidance on the dashboard structure and usage for effective car sales data analysis.
+
